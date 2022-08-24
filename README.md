@@ -12,7 +12,5 @@ Run "cam.py" to start detecting objects using python! Be sure you have downloade
 There is a pyhton script you can run to list all available cameras named "checkCam.py".
 
 Tutorials used and referenced:
-
-https://www.geeksforgeeks.org/detect-an-object-with-opencv-python/
-
-https://github.com/andrewssobral/vehicle_detection_haarcascades
+1. https://www.geeksforgeeks.org/detect-an-object-with-opencv-python/
+2. https://github.com/andrewssobral/vehicle_detection_haarcascades
