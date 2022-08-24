@@ -5,7 +5,11 @@ I will detail what is needed to get this up and running below:
 1. a working web cam (most work, check OpenCV2 for full list)
 2. numpy (py -m pip install numpy)
 3. opencv-python (py -m pip install opencv-python)
-4. files provided in this repo
+4. Python and XML files provided
+
+Run "cam.py" to start detecting objects using python! Be sure you have downloaded the XML in the same folder as you python script and have your cv2.VideoCapture(NUMBER) set to the correct value(should be a number between 0 and 5).
+
+There is a pyhton script you can run to list all available cameras named "checkCam.py".
 
 Tutorials used and referenced:
 
