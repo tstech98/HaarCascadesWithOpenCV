@@ -7,7 +7,5 @@ LIST
 
 
 Tutorials used and referenced:
-
 https://www.geeksforgeeks.org/detect-an-object-with-opencv-python/
-
 https://github.com/andrewssobral/vehicle_detection_haarcascades
